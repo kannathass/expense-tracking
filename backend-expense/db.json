@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "firstName": "harry11111",
+      "lastName": "g",
+      "email": "harry@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "firstName": "test",
+      "lastName": "last",
+      "email": "test@test.com",
+      "password": "test",
+      "id": 3
+    },
+    {
+      "firstName": "kanna",
+      "lastName": "thas",
+      "email": "tkt1112@gmail.com",
+      "password": "1111",
+      "id": 4
+    }
+  ],
+  "expense": [
+    {
+      "id": 1,
+      "expenseName": "vanloanss",
+      "notes": "emi",
+      "category": "2dddd",
+      "amount": 5000,
+      "paidBy": "salman"
+    },
+    {
+      "expenseName": "houseloan",
+      "notes": "emi",
+      "category": "3333",
+      "amount": "70000",
+      "paidBy": "rajesh",
+      "id": 2
+    }
+  ]
+}
